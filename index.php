@@ -4,4 +4,6 @@ echo("linux");
 
 echo("!!!");
 
+echo("win");
+
 ?>
